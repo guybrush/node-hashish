@@ -1,7 +1,7 @@
 {
     "name" : "hashish",
     "version" : "0.0.1",
-    "description" : "Hash data structure convenience functions",
+    "description" : "Hash data structure manipulation functions",
     "main" : "./index.js",
     "repository" : {
         "type" : "git",
@@ -10,6 +10,8 @@
     "keywords": [
         "hash",
         "object",
+        "convenience",
+        "manipulation",
         "data structure"
     ],
     "author" : {
