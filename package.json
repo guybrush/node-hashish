@@ -1,0 +1,31 @@
+{
+    "name" : "hashish",
+    "version" : "0.0.1",
+    "description" : "Toolbox of useful hash (the datastructure kind) functions",
+    "main" : "./index.js",
+    "repository" : {
+        "type" : "git",
+        "url" : "http://github.com/substack/node-hashish.git"
+    },
+    "keywords": [
+        "hash",
+        "object",
+        "data structure"
+    ],
+    "author" : {
+        "name" : "James Halliday",
+        "email" : "mail@substack.net",
+        "url" : "http://substack.net"
+    },
+    "dependencies" : {
+        "traverse" : ">0.2.4"
+    },
+    "devDependencies" : {
+        "expresso" : ">=0.6.0"
+    },
+    "scripts" : {
+        "test" : "expresso"
+    },
+    "license" : "MIT/X11",
+    "engine" : ["node >=0.2.0"]
+}
