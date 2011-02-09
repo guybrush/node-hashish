@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 var Hash = require('hashish');
 var assert = require('assert');
 

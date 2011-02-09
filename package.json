@@ -1,7 +1,7 @@
 {
     "name" : "hashish",
     "version" : "0.0.1",
-    "description" : "Toolbox of useful hash (the datastructure kind) functions",
+    "description" : "Hash data structure convenience functions",
     "main" : "./index.js",
     "repository" : {
         "type" : "git",
