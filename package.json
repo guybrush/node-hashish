@@ -20,7 +20,7 @@
         "url" : "http://substack.net"
     },
     "dependencies" : {
-        "traverse" : ">=0.2.4"
+        "traverse" : "https://github.com/guybrush/js-traverse/tarball/fixIE_0.4.3"
     },
     "devDependencies" : {
         "expresso" : ">=0.6.0"
